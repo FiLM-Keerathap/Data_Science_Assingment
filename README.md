@@ -1,6 +1,8 @@
 # Data_Science_Assingment
 Career Coraline : Assignments for Data Scientist Position
-Data sets: [m5-forecasting-accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy)
+
+Dataset: [m5-forecasting-accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy)
+
 # 1_M5_Forecasting _Accuracy_Presentation
 
 ## <h3>1. Business Understanding and Problem Formulation</h3>
